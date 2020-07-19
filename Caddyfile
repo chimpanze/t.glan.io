@@ -1,0 +1,4 @@
+t.glan.io
+
+root * /var/www/public
+php_fastcgi app:9000
